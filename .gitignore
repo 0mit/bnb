@@ -47,3 +47,6 @@ Temporary Items
 .apdisk
 
 Security_System_Workspace/.metadata/*
+Security_System_Workspace\.metadata\*
+Security_System_Workspace\\.metadata\\*
+*.xmi
