@@ -218,3 +218,15 @@ Command-line arguments:  -os win32 -ws win32 -arch x86
 
 !ENTRY org.eclipse.cdt.core 1 0 2016-07-18 22:37:46.649
 !MESSAGE Indexed 'lpc_program_security_system_firmware' (1 sources, 0 headers) in 0.126 sec: 145 declarations; 145 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+!SESSION 2016-07-19 15:26:15.646 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_60
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.ui 4 4 2016-07-19 15:26:28.910
+!MESSAGE Plugin org.eclipse.cdt.ui, extension org.eclipse.ui.decorators, id org.eclipse.cdt.internal.ui.CustomBuildSettingsDecorator: Duplicate id found: org.eclipse.cdt.internal.ui.CustomBuildSettingsDecorator
+
+!ENTRY org.eclipse.ui 4 4 2016-07-19 15:26:28.930
+!MESSAGE Plugin org.eclipse.cdt.ui, extension org.eclipse.ui.decorators, id org.eclipse.cdt.internal.ui.CustomBuildSettingsDecorator: Unknown extension tag found: decorator
